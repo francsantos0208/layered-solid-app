@@ -1,0 +1,29 @@
+﻿@model IEnumerable<DataTransferObjects.OwnerDto>
+@{
+    ViewBag.Title = "AGL Programming Challenge";
+}
+
+<div class="jumbotron">
+    <h1>AGL Programming Challenge</h1>
+    <p class="lead">Multi-layered approach, SOLID Compliant Application</p>
+</div>
+
+<div class="row">
+    <div class="col-md-5">
+        <h2>Owners With At Least One Cat</h2>
+        <p>
+          
+            @foreach (var owner in Model)
+            {
+                <h2>@owner.Gender</h2>
+                <ul>
+                    @foreach (var cat  in owner.Pets)
+                    {
+                        <li>@cat.Name</li>
+                    }
+                </ul>
+            }
+        </p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+    </div>
+</div>

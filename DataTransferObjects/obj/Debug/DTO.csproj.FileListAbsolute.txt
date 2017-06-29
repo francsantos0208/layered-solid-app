@@ -1,0 +1,5 @@
+c:\Users\Francisco Santos\Documents\Visual Studio 2013\Projects\MVC.Website\DTO\bin\Debug\DTO.dll
+c:\Users\Francisco Santos\Documents\Visual Studio 2013\Projects\MVC.Website\DTO\bin\Debug\DTO.pdb
+c:\Users\Francisco Santos\Documents\Visual Studio 2013\Projects\MVC.Website\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+c:\Users\Francisco Santos\Documents\Visual Studio 2013\Projects\MVC.Website\DTO\obj\Debug\DTO.dll
+c:\Users\Francisco Santos\Documents\Visual Studio 2013\Projects\MVC.Website\DTO\obj\Debug\DTO.pdb
