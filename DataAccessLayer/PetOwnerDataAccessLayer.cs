@@ -2,6 +2,7 @@
 using System.Threading.Tasks;
 using API.Client;
 using DataAccessLayer.Entities;
+using System.Configuration;
 
 namespace DataAccessLayer
 {
@@ -9,10 +10,9 @@ namespace DataAccessLayer
     {
         public async Task<IEnumerable<OwnerDal>> GetOwners()
         {
+            var peopleDataSourceEndpoint = ConfigurationManager.AppSettings["PeopleDataSourceEndpoint"];
             var owners =
-                await HttpClientSingleton.Instance.GetData<IEnumerable<OwnerDal>>(
-                    "http://agl-developer-test.azurewebsites.net/people.json");
-
+                await HttpClientSingleton.Instance.GetData<IEnumerable<OwnerDal>>(peopleDataSourceEndpoint);
             return owners;
         }
     }

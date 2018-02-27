@@ -8,3 +8,14 @@ C:\Users\Francisco Santos\Documents\Visual Studio 2013\Projects\MVC.Website\Data
 C:\Users\Francisco Santos\Documents\Visual Studio 2013\Projects\MVC.Website\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
 C:\Users\Francisco Santos\Documents\Visual Studio 2013\Projects\MVC.Website\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\Francisco Santos\Documents\Visual Studio 2013\Projects\MVC.Website\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\DataAccessLayer\bin\Debug\API.Client.dll
+C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\DataAccessLayer\bin\Debug\API.Client.pdb
+C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
