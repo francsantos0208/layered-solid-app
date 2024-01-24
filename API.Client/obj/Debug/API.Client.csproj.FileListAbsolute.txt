@@ -17,3 +17,14 @@ C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-s
 C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\API.Client\obj\Debug\API.Client.dll
 C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\API.Client\obj\Debug\API.Client.pdb
 C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\API.Client\obj\Debug\API.Client.csproj.CoreCompileInputs.cache
+C:\RemoteRepos\franc0208\layered-solid-app\API.Client\bin\Debug\API.Client.dll
+C:\RemoteRepos\franc0208\layered-solid-app\API.Client\bin\Debug\API.Client.pdb
+C:\RemoteRepos\franc0208\layered-solid-app\API.Client\bin\Debug\Newtonsoft.Json.dll
+C:\RemoteRepos\franc0208\layered-solid-app\API.Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\RemoteRepos\franc0208\layered-solid-app\API.Client\bin\Debug\Newtonsoft.Json.xml
+C:\RemoteRepos\franc0208\layered-solid-app\API.Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\RemoteRepos\franc0208\layered-solid-app\API.Client\obj\Debug\API.Client.csproj.AssemblyReference.cache
+C:\RemoteRepos\franc0208\layered-solid-app\API.Client\obj\Debug\API.Client.csproj.CoreCompileInputs.cache
+C:\RemoteRepos\franc0208\layered-solid-app\API.Client\obj\Debug\API.Client.csproj.CopyComplete
+C:\RemoteRepos\franc0208\layered-solid-app\API.Client\obj\Debug\API.Client.dll
+C:\RemoteRepos\franc0208\layered-solid-app\API.Client\obj\Debug\API.Client.pdb

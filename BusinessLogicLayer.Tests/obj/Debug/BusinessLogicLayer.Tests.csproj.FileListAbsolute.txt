@@ -37,3 +37,25 @@ C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-s
 C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\DataAccessLayer.dll.config
 C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\BusinessLogicLayer.Tests\obj\Debug\BusinessLogicLayer.Tests.csproj.CoreCompileInputs.cache
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\BusinessLogicLayer.Tests.dll
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\BusinessLogicLayer.Tests.pdb
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\BusinessLogicLayer.dll
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\Castle.Core.dll
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\DataAccessLayer.dll
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\DataTransferObjects.dll
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\Moq.dll
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\nunit.framework.dll
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\API.Client.dll
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\BusinessLogicLayer.pdb
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\DataAccessLayer.pdb
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\DataAccessLayer.dll.config
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\DataTransferObjects.pdb
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\Moq.xml
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\nunit.framework.xml
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\bin\Debug\API.Client.pdb
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\obj\Debug\BusinessLogicLayer.Tests.csproj.AssemblyReference.cache
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\obj\Debug\BusinessLogicLayer.Tests.csproj.CoreCompileInputs.cache
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\obj\Debug\BusinessLogicLayer.Tests.csproj.CopyComplete
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\obj\Debug\BusinessLogicLayer.Tests.dll
+C:\RemoteRepos\franc0208\layered-solid-app\BusinessLogicLayer.Tests\obj\Debug\BusinessLogicLayer.Tests.pdb

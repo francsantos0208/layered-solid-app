@@ -19,3 +19,15 @@ C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-s
 C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 C:\Users\Francisco Santos\Documents\Software Projects\Coding Challenge\layered-solid-app\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\RemoteRepos\franc0208\layered-solid-app\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\RemoteRepos\franc0208\layered-solid-app\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\RemoteRepos\franc0208\layered-solid-app\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\RemoteRepos\franc0208\layered-solid-app\DataAccessLayer\bin\Debug\API.Client.dll
+C:\RemoteRepos\franc0208\layered-solid-app\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\RemoteRepos\franc0208\layered-solid-app\DataAccessLayer\bin\Debug\API.Client.pdb
+C:\RemoteRepos\franc0208\layered-solid-app\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\RemoteRepos\franc0208\layered-solid-app\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\RemoteRepos\franc0208\layered-solid-app\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\RemoteRepos\franc0208\layered-solid-app\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\RemoteRepos\franc0208\layered-solid-app\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\RemoteRepos\franc0208\layered-solid-app\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
