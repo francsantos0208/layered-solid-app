@@ -17,7 +17,7 @@ namespace BusinessLogicLayer
 
         public async Task<IEnumerable<OwnerDto>> GetOwners()
         {
-            //change 1 - one
+            //change 1 - uno
             //change 2 - two
             //change 3 - three
             var owners = await _petOwnerDataAccessLayer.GetOwners();
