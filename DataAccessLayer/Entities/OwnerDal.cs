@@ -4,6 +4,7 @@ namespace DataAccessLayer.Entities
 {
     public class OwnerDal
     {
+        //change 4 - four
         public string Name { get; set; }
         public string Gender { get; set; }
         public int Age { get; set; }
