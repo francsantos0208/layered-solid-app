@@ -6,6 +6,7 @@ namespace DataAccessLayer.Entities
     {
         //change 4 - four
         //change 5 - five
+        //change 6 - six
         public string Name { get; set; }
         public string Gender { get; set; }
         public int Age { get; set; }
